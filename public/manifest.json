@@ -1,0 +1,82 @@
+{
+  "name": "Ange Arsène - Full-Stack Developer Portfolio",
+  "short_name": "Ange Arsène",
+  "description": "Full-Stack Developer specializing in Laravel, React.js, WordPress, and automation solutions. Expert in payment gateway integration and API development in Cameroon.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/ios-filled/192/1d3882/placeholder-thumbnail-xml.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://img.icons8.com/ios-filled/512/1d3882/placeholder-thumbnail-xml.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "portfolio", "technology"],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1280&h=720",
+      "sizes": "1280x720",
+      "type": "image/jpeg"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Contact Me",
+      "short_name": "Contact",
+      "description": "Get in touch for project inquiries",
+      "url": "/#contact",
+      "icons": [
+        {
+          "src": "https://img.icons8.com/ios-filled/96/1d3882/placeholder-thumbnail-xml.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "View Projects",
+      "short_name": "Projects",
+      "description": "Browse my portfolio projects",
+      "url": "/#projects",
+      "icons": [
+        {
+          "src": "https://img.icons8.com/ios-filled/96/1d3882/placeholder-thumbnail-xml.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "My Skills",
+      "short_name": "Skills",
+      "description": "Technical skills and expertise",
+      "url": "/#skills",
+      "icons": [
+        {
+          "src": "https://img.icons8.com/ios-filled/96/1d3882/placeholder-thumbnail-xml.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "share_target": {
+    "action": "/#contact",
+    "method": "GET",
+    "enctype": "application/x-www-form-urlencoded",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+# Security Policy for ange-arsene.is-a.dev
+
+# Our security address
+Contact: mailto:nkenmandenga@gmail.com
+Contact: https://github.com/AngeArsene/portfolio/security/advisories/new
+
+# Our security policy
+Preferred-Languages: en, fr
+Canonical: https://ange-arsene.is-a.dev/.well-known/security.txt
+
+# Encryption key
+# PGP key available upon request via email
+
+# Security acknowledgments
+Acknowledgments: https://ange-arsene.is-a.dev/#contact
+
+# Vulnerability disclosure policy
+Policy: https://github.com/AngeArsene/portfolio/blob/main/SECURITY.md
+
+# Hiring
+Hiring: https://ange-arsene.is-a.dev/#contact
+
+# Expires
+Expires: 2025-12-31T23:59:59.000Z
